@@ -1,0 +1,14 @@
+# segredos e estado local
+config/.env
+.env
+bot/state/
+bot/KILL
+# python
+.venv/
+__pycache__/
+.pytest_cache/
+# editor/os
+.DS_Store
+# resultados e journals gerados localmente
+logs/
+backtests/
